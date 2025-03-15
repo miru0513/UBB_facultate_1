@@ -25,7 +25,7 @@ This folder contains my **personal notes, homework, and exam resources** from my
 - 📝 **Exam models** to prepare for tests.  
 - 🏗️ **Homework assignments** (some may not be fully functional, as I lost the final versions).
 
-### **Computer system architecure**
+### 📘 **Computer system architecure**
 -📝 My **personal notes** that I studied for the exam.  
 
 ---
