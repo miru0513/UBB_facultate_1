@@ -23,7 +23,10 @@ This folder contains my **personal notes, homework, and exam resources** from my
 
 ### 💻 **Fundamentals of Programming**  
 - 📝 **Exam models** to prepare for tests.  
-- 🏗️ **Homework assignments** (some may not be fully functional, as I lost the final versions).  
+- 🏗️ **Homework assignments** (some may not be fully functional, as I lost the final versions).
+
+### **Computer system architecure**
+-📝 My **personal notes** that I studied for the exam.  
 
 ---
 
