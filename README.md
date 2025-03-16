@@ -8,7 +8,7 @@ This folder contains my **personal notes, homework, and exam resources** from my
 
 ---
 
-## 📘 Subjects & Contents  
+## 📘 Subjects & Contents  - First semester
 
 ### 🧠 **Computational Logic**  
 - 📝 My **personal notes** that I used for the **exam**.  
@@ -35,5 +35,11 @@ This folder contains my **personal notes, homework, and exam resources** from my
 💡 Feel free to use them as a **study reference** but always verify with official resources.  
 
 ---
+
+## 🚀 Semester 2 - Work in Progress  
+
+Semester 2 is currently **in progress**.  
+More resources and notes will be added as the semester advances!  
+  
 
 📩 If you have any questions, feel free to reach out! 😊  
