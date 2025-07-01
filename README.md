@@ -1,4 +1,3 @@
-
 # 📂 Facultate Folder  
 
 Welcome to the **Facultate** folder! 🎓  
@@ -25,21 +24,41 @@ This folder contains my **personal notes, homework, and exam resources** from my
 - 📝 **Exam models** to prepare for tests.  
 - 🏗️ **Homework assignments** (some may not be fully functional, as I lost the final versions).
 
-### 📘 **Computer system architecure**
+### 📘 **Computer System Architecture**  
 - 📝 My **personal notes** that I studied for the exam.  
 - 📝 **Exam models** to prepare for exams.  
+
+---
+
+## 📘 Subjects & Contents  - Second semester
+
+### 📐 **Geometry**  
+- 📝 **Partial notes and exam subjects**.  
+
+### 🗺️ **Graphs**  
+- 🗂️ **Lab assignments** completed during the semester.  
+
+### 💡 **Object Oriented Programming**  
+- 📝 **My tests and exam**.  
+
+### 🌳 **Data Structures and Algorithms**  
+- 🗂️ **Lab assignments** completed during the semester.  
+
+### 🔄 **Dynamical Systems**  
+
+### 🖥️ **Operating Systems**  
+
+
 ---
 
 ## 📌 Notes  
 📂 This folder is meant to **help students** by sharing useful materials.  
-💡 Feel free to use them as a **study reference** but always verify with official resources.  
+💡 Feel free to use them as a **study reference**, but always verify with official resources.  
 
 ---
 
-## 🚀 Semester 2 - Work in Progress  
+## 🚀 Future additions  
 
-Semester 2 is currently **in progress**.  
-More resources and notes will be added as the semester advances!  
-  
+More resources and updates will be added as I continue my studies!  
 
-📩 If you have any questions, feel free to reach out! 😊  
+📩 If you have any questions, feel free to reach out! 😊
